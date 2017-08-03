@@ -1,0 +1,2 @@
+Build.gradle de nivel project: classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+Build.gradle de nivel module app: apply plugin: 'kotlin-android-extensions'
